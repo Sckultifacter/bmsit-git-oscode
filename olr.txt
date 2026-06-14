@@ -1,3 +1,4 @@
+OLR values
 OUTGOING LONG WAVE RADIATION EQUATOR/160E-160W                                  
                     ORIGINAL        DATA                                        
                                                                                 
